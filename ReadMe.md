@@ -23,3 +23,24 @@
 
 # Make changes in pom.xml and push changes to GitHub repo using git bash
 ### Version changed from 3.8.1 to 3.8.2
+
+
+# Create feature branch in git repo from main branch
+
+# Clone feature branch from git bash using git clone
+### git clone -b feature https://github.com/ADITYA-PRASAD-PANDA/Maven-Git.git
+
+# Make changes in 'feature' branch pom.xml file and push changes to central repo
+### mkdir demo.txt -> file1.txt -> Devops
+
+
+
+
+
+
+
+
+
+
+
+
