@@ -31,7 +31,9 @@
 ### git clone -b feature https://github.com/ADITYA-PRASAD-PANDA/Maven-Git.git
 
 # Make changes in 'feature' branch pom.xml file and push changes to central repo
-### mkdir demo.txt -> file1.txt -> Devops
+### git branch feature
+### git checkout feature
+### echo This is the Devops file > file1.txt
 
 
 
